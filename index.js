@@ -1,0 +1,1 @@
+// make smoot scrolling using lenis
