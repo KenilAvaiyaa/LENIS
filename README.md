@@ -1,0 +1,2 @@
+# LENIS
+smooth scrolling
